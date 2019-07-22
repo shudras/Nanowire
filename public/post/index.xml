@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NW mode shape</title>
+      <link>/post/nw-mode-shape/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nw-mode-shape/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
